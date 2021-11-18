@@ -1,1 +1,1 @@
-# threejs-introductory-exercise
+# Threejs introductory exercise
