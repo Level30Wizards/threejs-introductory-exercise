@@ -1,5 +1,9 @@
 # Threejs introductory exercise
 
+## What are we building
+
+![End result](./markdown-assets/end-result.gif)
+
 ## Getting started
 
 This project uses the following:
